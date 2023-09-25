@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.leaf{
+    background-color: lime;
+    height: 40px;
+    width: 40px;
+    border-radius: 0 20px;
+}
